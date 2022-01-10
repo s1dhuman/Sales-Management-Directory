@@ -4,7 +4,7 @@ The project is based on Sales Management. It can be used in variety of day to da
 
 	•View all the items
 
-	•Add	 new items
+	•Add new items
 
 	•Deleting existing items
 
