@@ -1,6 +1,6 @@
 # Sales-Management-Directory
 
-The project is based on Sales Management. It can be used in variety of day to day activities in shops. This project shows the sales management of ‘Apple Store’. You can:
+The project is based on Sales Management. It can be used in variety of day to day activities in shops. This project shows the sales management of ‘Apple Store’. You can:\n
 •	View all the items
 •	Add new items
 •	Deleting existing items
